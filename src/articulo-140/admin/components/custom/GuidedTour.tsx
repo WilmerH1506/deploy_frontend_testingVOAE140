@@ -8,7 +8,7 @@ import Joyride, {
 } from "react-joyride"
 import { useTour } from "@/articulo-140/hooks/activities/admin/useTour"
 import { X, ChevronLeft, ChevronRight, CheckCheck, Keyboard } from "lucide-react"
-import logoPuma from "@/assest/puma_unah.png"
+import logoPuma from "/puma_unah.png"
 
 // ─── Tipos ────────────────────────────────────────────────────────────────────
 
